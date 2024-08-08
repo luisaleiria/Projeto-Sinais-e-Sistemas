@@ -6,8 +6,8 @@ para atuar em conjunto com aquele baseado em FT;
 4. Cada grupo deve definir uma opção para algoritmo de reconhecimento de padrões.
 
 Integrantes do Grupo:
-Aline Forteleza
-Beatriz Leão
-Danilo Carvalho
-Luisa Leiria
-Rafael Azevedo
+- Aline Forteleza,
+- Beatriz Leão,
+- Danilo Carvalho,
+- Luisa Leiria,
+- Rafael Azevedo.
