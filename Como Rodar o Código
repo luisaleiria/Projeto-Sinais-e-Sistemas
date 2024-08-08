@@ -1,0 +1,8 @@
+Para compilar o código é necessário ter as seguintes bibliotecas baixadas:
+pip install numpy librosa datasets scikit-learn imbalanced-learn xgboost scipy scikit-image matplotlib hmmlearn SpeechRecognition
+
+Além disso também é necessário baixar o pyaudio, com:
+pip install pyaudio
+
+Agora é só dar run em todos os blocos e quando o bloco do treinamento emitir todo o resultado rodar o bloco do microfone e falar a palavra quando ele solicitar
+
